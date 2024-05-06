@@ -23,7 +23,7 @@ This project is a solution to the Result Summary component challenge on Frontend
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://gibby0.github.io/Frontend-Mentor-Results-summary-component-using-html-and-css/result.html)
 
 
 ### Built with
